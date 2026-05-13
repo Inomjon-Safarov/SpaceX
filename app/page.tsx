@@ -78,7 +78,7 @@ const SpaceXHome: React.FC = () => {
 
             <div className="w-[210px] cursor-pointer">
               <img
-                src="https://i.ytimg.com/vi/fpmZN_z_fZ8/hqdefault.jpg"
+                src="https://upload.wikimedia.org/wikipedia/commons/9/96/SpaceX_Logo_Black.png"
                 alt="SpaceX"
                 className="w-full object-contain mix-blend-screen brightness-200"
               />
